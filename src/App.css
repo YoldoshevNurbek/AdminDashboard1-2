@@ -1,0 +1,10 @@
+.jumbotron {
+    padding: 2rem 2rem 0 2rem ;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+    text-align: center;
+    margin-top: 5rem;
+    background: #fff;
+    font-size:40px;
+    font-weight: bold;
+  }
